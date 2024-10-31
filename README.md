@@ -1,3 +1,3 @@
 # pwnable
 
-https://pwnable.kr/play.php
+https://pwnable.tw/challenge/
